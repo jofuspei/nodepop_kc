@@ -1,8 +1,8 @@
 
 # Deploy
 
-Nodepop: (http://ec2-100-24-255-84.compute-1.amazonaws.com/)[http://ec2-100-24-255-84.compute-1.amazonaws.com/]
-Reactpop: (http://100.24.255.84/)[http://100.24.255.84/]
+Nodepop: http://ec2-100-24-255-84.compute-1.amazonaws.com/
+Reactpop: http://100.24.255.84/
 
 _Not linked yet_
 
